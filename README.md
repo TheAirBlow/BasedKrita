@@ -6,12 +6,12 @@ Random additions to Krita all in one plugin
 - Undo and redo statistics saved per document
 
 ## Installation
-1. Click Code -> Download ZIP
-2. Copy `basedkrita` and `basedkrita.desktop`
-3. Open Krita
-4. Click Settings -> Manage Resources...
-5. Click Open Resource Folder
-6. Open the `pykrita` folder and paste into it
+1. Click Code -> Download ZIP and open it in 7z or WinRAR
+2. Open Krita
+3. Click Settings -> Manage Resources...
+4. Click Open Resource Folder
+5. Open the `pykrita` folder
+6. Extract `basedkrita` and `basedkrita.desktop` from the archive into that folder
 7. Restart Krita
 8. Click Settings -> Configure Krita...
 9. Click Python Plugin Management
